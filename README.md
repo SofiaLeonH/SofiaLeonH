@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-- 🌱 I am currently learning UX research, data analysis and front-end web development.
+- 🌱 I am currently learning UX designer, data analysis and front-end web development.
 - 👯 Looking to collaborate on UX/UI and web development projects
 - 🤔 I am looking for help with databases and related to software development.
 - 📫 How to contact me: Gmail: sofialeon1098@gmail.com | X: [@SofiaLeonH](https://twitter.com/SofiaLeonH) | Behance: [Sofía León](https://www.behance.net/sofalen3) | LinkedIn: [Sofía León](https://www.linkedin.com/in/sof%C3%ADa-le%C3%B3n-895233260/)
